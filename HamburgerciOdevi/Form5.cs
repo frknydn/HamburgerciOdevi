@@ -37,7 +37,6 @@ namespace HamburgerciOdevi
             lblSatilanUrunAdedi.Text = lbxTumSiparisler.Items.Count.ToString();
             lblToplamSiparis.Text = lbxTumSiparisler.Items.Count.ToString();
 
-            /// fdfdsfşfjsfıjadsfjsdaıofjısda(////
         }
     }
 }
